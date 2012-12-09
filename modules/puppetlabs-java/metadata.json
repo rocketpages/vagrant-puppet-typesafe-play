@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "checksums": {
+    "templates/sun-java6.preseed": "7833b1c4a0a8e9a1894b6e86e239391b",
+    "manifests/package_debian.pp": "5e79f23c22fd812f3f0ac41066fa8658",
+    "tests/init.pp": "18cca70ce5e9c7646ebb64769df4b16e",
+    "CHANGELOG": "2b5445ad413067803535b1a7607ea115",
+    "LICENSE": "3098b034ffe72e76d5dc3799c825d730",
+    "manifests/package_redhat.pp": "fb84974c4a470fa6e1151a5ac427d261",
+    "README.markdown": "0ff80797bf4722712b79719f9eee4c5e",
+    "Modulefile": "dbd79a1404ba49ceb9705140348e9b35",
+    "manifests/package_solaris.pp": "c6f55ba9cafee531b6f81698da8449b3",
+    "manifests/init.pp": "6f2c5a97279109cae8543602a170919a",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c"
+  },
+  "author": "puppetlabs",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 0.1.6"
+    }
+  ],
+  "summary": "Manage the official Java runtime",
+  "source": "git://github.com/puppetlabs/puppetlabs-java",
+  "description": "Manage the official Java runtime",
+  "license": "Apache",
+  "name": "puppetlabs-java",
+  "types": [
+
+  ],
+  "project_page": "https://github.com/puppetlabs/puppetlabs-java"
+}
