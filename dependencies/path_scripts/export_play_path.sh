@@ -1,0 +1,1 @@
+export PATH=$PATH:/opt/play-2.0.4

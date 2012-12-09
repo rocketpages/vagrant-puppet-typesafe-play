@@ -6,4 +6,5 @@ Vagrant::Config.run do |config|
 
   # Forward guest port 80 to host port 4567
   config.vm.forward_port 80, 4567
+  config.vm.forward_port 9000, 9000
 end
