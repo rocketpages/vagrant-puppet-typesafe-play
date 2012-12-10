@@ -1,4 +1,4 @@
-# Vagrant and Puppet / Typesafe Stack (Play Framework)
+# Vagrant & Puppet - Typesafe Stack / Play Framework
 This is a quick sample configuration using Vagrant and Puppet.
 
 ## Purpose
